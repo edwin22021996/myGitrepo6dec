@@ -1,0 +1,24 @@
+---
+- mystudents:
+  - name: anil
+    phno: 9090909090
+    address:
+        doorno: 901
+        streetno: 9th Cross
+        pincode: 990099
+
+  - name: sunil
+    phno: 8080808080
+    address:
+        doorno: 801
+        streetno: 8th Cross
+        pincode: 880088
+
+  - name: kunal
+    phno: 7070707070
+    address:
+        doorno: 701
+        streetno: 7th Cross
+        pincode: 770077
+
+        

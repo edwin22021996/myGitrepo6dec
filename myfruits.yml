@@ -1,0 +1,6 @@
+---
+- name:
+  - grapes
+  - orange
+  - apple
+  - mango
