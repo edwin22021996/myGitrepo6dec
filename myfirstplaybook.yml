@@ -1,0 +1,3 @@
+---
+- name: install java for instance 1
+  apt: 
